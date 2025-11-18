@@ -130,7 +130,7 @@ gap: 12px;
 }
 
 .logo-img {
-width: 120px; /* ajuste si besoin */
+width: 180px; /* ajuste si besoin */
 height: auto;
 display: block;
 }
@@ -211,4 +211,5 @@ font-size: 20px;
 width: 44px;
 }
 }
+
 
